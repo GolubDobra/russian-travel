@@ -7,7 +7,7 @@
   max-width: 1184px;
   min-height: calc(0.625 * (99vw));
   background-size: cover;
-  background-image: url(../../img/naSobakah.jpg);
+  background-image: url(../../images/naSobakah.jpg);
   background-repeat: no-repeat;
   z-index: 1;
 }
