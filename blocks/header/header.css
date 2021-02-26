@@ -3,8 +3,8 @@
   justify-content: space-between;
   align-items: center;
   max-width: 1184px;
-  max-height: 52px;
-  margin: 0 auto;
+  /* max-height: 52px; */
+  margin: 28px auto 0;
 }
 
 @media screen and (min-width: 1280px) {
